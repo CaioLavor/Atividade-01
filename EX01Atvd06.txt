@@ -1,0 +1,5 @@
+1 - a) Retornará "Pilha Vazia"
+1 - b) Letra C
+1 - c) 2, o tamanho da pilha
+1 - d) O retorno continua sendo a letra C
+1 - e) o retorno é True
